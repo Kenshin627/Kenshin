@@ -11,6 +11,6 @@ namespace Kenshin {
 		void Run();
 	};
 
-	Kenshin::Application* createApplication();
+	Application* createApplication();
 }
 
